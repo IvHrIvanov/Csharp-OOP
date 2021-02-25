@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\Inheritance - Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.exe
+C:\Users\Ivan\source\repos\Inheritance - Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.deps.json
+C:\Users\Ivan\source\repos\Inheritance - Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.runtimeconfig.json
+C:\Users\Ivan\source\repos\Inheritance - Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\Inheritance - Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.dll
+C:\Users\Ivan\source\repos\Inheritance - Lab\03.HierarchicalInheritance\bin\Debug\netcoreapp3.1\03.HierarchicalInheritance.pdb
+C:\Users\Ivan\source\repos\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.dll
+C:\Users\Ivan\source\repos\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.pdb
+C:\Users\Ivan\source\repos\Inheritance - Lab\03.HierarchicalInheritance\obj\Debug\netcoreapp3.1\03.HierarchicalInheritance.genruntimeconfig.cache
