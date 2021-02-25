@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\Inheritance - Lab\02.MultipleInheritance\bin\Debug\netcoreapp3.1\02.MultipleInheritance.exe
+C:\Users\Ivan\source\repos\Inheritance - Lab\02.MultipleInheritance\bin\Debug\netcoreapp3.1\02.MultipleInheritance.deps.json
+C:\Users\Ivan\source\repos\Inheritance - Lab\02.MultipleInheritance\bin\Debug\netcoreapp3.1\02.MultipleInheritance.runtimeconfig.json
+C:\Users\Ivan\source\repos\Inheritance - Lab\02.MultipleInheritance\bin\Debug\netcoreapp3.1\02.MultipleInheritance.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\Inheritance - Lab\02.MultipleInheritance\bin\Debug\netcoreapp3.1\02.MultipleInheritance.dll
+C:\Users\Ivan\source\repos\Inheritance - Lab\02.MultipleInheritance\bin\Debug\netcoreapp3.1\02.MultipleInheritance.pdb
+C:\Users\Ivan\source\repos\Inheritance - Lab\02.MultipleInheritance\obj\Debug\netcoreapp3.1\02.MultipleInheritance.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Inheritance - Lab\02.MultipleInheritance\obj\Debug\netcoreapp3.1\02.MultipleInheritance.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Inheritance - Lab\02.MultipleInheritance\obj\Debug\netcoreapp3.1\02.MultipleInheritance.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Inheritance - Lab\02.MultipleInheritance\obj\Debug\netcoreapp3.1\02.MultipleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Inheritance - Lab\02.MultipleInheritance\obj\Debug\netcoreapp3.1\02.MultipleInheritance.dll
+C:\Users\Ivan\source\repos\Inheritance - Lab\02.MultipleInheritance\obj\Debug\netcoreapp3.1\02.MultipleInheritance.pdb
+C:\Users\Ivan\source\repos\Inheritance - Lab\02.MultipleInheritance\obj\Debug\netcoreapp3.1\02.MultipleInheritance.genruntimeconfig.cache
