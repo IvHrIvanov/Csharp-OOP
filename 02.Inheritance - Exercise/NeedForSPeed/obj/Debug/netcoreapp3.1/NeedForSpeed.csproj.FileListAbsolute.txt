@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\02.Inheritance - Exercise\NeedForSPeed\bin\Debug\netcoreapp3.1\NeedForSpeed.exe
+C:\Users\Ivan\source\repos\02.Inheritance - Exercise\NeedForSPeed\bin\Debug\netcoreapp3.1\NeedForSpeed.deps.json
+C:\Users\Ivan\source\repos\02.Inheritance - Exercise\NeedForSPeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.json
+C:\Users\Ivan\source\repos\02.Inheritance - Exercise\NeedForSPeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\02.Inheritance - Exercise\NeedForSPeed\bin\Debug\netcoreapp3.1\NeedForSpeed.dll
+C:\Users\Ivan\source\repos\02.Inheritance - Exercise\NeedForSPeed\bin\Debug\netcoreapp3.1\NeedForSpeed.pdb
+C:\Users\Ivan\source\repos\02.Inheritance - Exercise\NeedForSPeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\02.Inheritance - Exercise\NeedForSPeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\02.Inheritance - Exercise\NeedForSPeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\02.Inheritance - Exercise\NeedForSPeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\02.Inheritance - Exercise\NeedForSPeed\obj\Debug\netcoreapp3.1\NeedForSpeed.dll
+C:\Users\Ivan\source\repos\02.Inheritance - Exercise\NeedForSPeed\obj\Debug\netcoreapp3.1\NeedForSpeed.pdb
+C:\Users\Ivan\source\repos\02.Inheritance - Exercise\NeedForSPeed\obj\Debug\netcoreapp3.1\NeedForSpeed.genruntimeconfig.cache
