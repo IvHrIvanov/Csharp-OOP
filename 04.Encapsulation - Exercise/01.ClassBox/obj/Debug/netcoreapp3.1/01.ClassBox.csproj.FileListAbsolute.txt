@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\01.ClassBox\bin\Debug\netcoreapp3.1\01.ClassBox.exe
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\01.ClassBox\bin\Debug\netcoreapp3.1\01.ClassBox.deps.json
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\01.ClassBox\bin\Debug\netcoreapp3.1\01.ClassBox.runtimeconfig.json
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\01.ClassBox\bin\Debug\netcoreapp3.1\01.ClassBox.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\01.ClassBox\bin\Debug\netcoreapp3.1\01.ClassBox.dll
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\01.ClassBox\bin\Debug\netcoreapp3.1\01.ClassBox.pdb
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\01.ClassBox\obj\Debug\netcoreapp3.1\01.ClassBox.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\01.ClassBox\obj\Debug\netcoreapp3.1\01.ClassBox.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\01.ClassBox\obj\Debug\netcoreapp3.1\01.ClassBox.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\01.ClassBox\obj\Debug\netcoreapp3.1\01.ClassBox.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\01.ClassBox\obj\Debug\netcoreapp3.1\01.ClassBox.dll
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\01.ClassBox\obj\Debug\netcoreapp3.1\01.ClassBox.pdb
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\01.ClassBox\obj\Debug\netcoreapp3.1\01.ClassBox.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\02. AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.exe
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\02. AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.deps.json
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\02. AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.json
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\02. AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\02. AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.dll
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\02. AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.pdb
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\02. AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\02. AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\02. AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\02. AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\02. AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.dll
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\02. AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.pdb
+C:\Users\Ivan\source\repos\ExerciseEncapsulation\02. AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.genruntimeconfig.cache
