@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\Encapsulation - Lab\04.FirstandReserveTeam\bin\Debug\netcoreapp3.1\04.FirstandReserveTeam.exe
+C:\Users\Ivan\source\repos\Encapsulation - Lab\04.FirstandReserveTeam\bin\Debug\netcoreapp3.1\04.FirstandReserveTeam.deps.json
+C:\Users\Ivan\source\repos\Encapsulation - Lab\04.FirstandReserveTeam\bin\Debug\netcoreapp3.1\04.FirstandReserveTeam.runtimeconfig.json
+C:\Users\Ivan\source\repos\Encapsulation - Lab\04.FirstandReserveTeam\bin\Debug\netcoreapp3.1\04.FirstandReserveTeam.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\Encapsulation - Lab\04.FirstandReserveTeam\bin\Debug\netcoreapp3.1\04.FirstandReserveTeam.dll
+C:\Users\Ivan\source\repos\Encapsulation - Lab\04.FirstandReserveTeam\bin\Debug\netcoreapp3.1\04.FirstandReserveTeam.pdb
+C:\Users\Ivan\source\repos\Encapsulation - Lab\04.FirstandReserveTeam\obj\Debug\netcoreapp3.1\04.FirstandReserveTeam.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Encapsulation - Lab\04.FirstandReserveTeam\obj\Debug\netcoreapp3.1\04.FirstandReserveTeam.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Encapsulation - Lab\04.FirstandReserveTeam\obj\Debug\netcoreapp3.1\04.FirstandReserveTeam.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Encapsulation - Lab\04.FirstandReserveTeam\obj\Debug\netcoreapp3.1\04.FirstandReserveTeam.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Encapsulation - Lab\04.FirstandReserveTeam\obj\Debug\netcoreapp3.1\04.FirstandReserveTeam.dll
+C:\Users\Ivan\source\repos\Encapsulation - Lab\04.FirstandReserveTeam\obj\Debug\netcoreapp3.1\04.FirstandReserveTeam.pdb
+C:\Users\Ivan\source\repos\Encapsulation - Lab\04.FirstandReserveTeam\obj\Debug\netcoreapp3.1\04.FirstandReserveTeam.genruntimeconfig.cache

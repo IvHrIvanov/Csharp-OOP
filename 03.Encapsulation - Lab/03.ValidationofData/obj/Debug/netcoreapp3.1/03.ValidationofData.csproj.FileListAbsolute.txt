@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\Encapsulation - Lab\03.ValidationofData\bin\Debug\netcoreapp3.1\03.ValidationofData.exe
+C:\Users\Ivan\source\repos\Encapsulation - Lab\03.ValidationofData\bin\Debug\netcoreapp3.1\03.ValidationofData.deps.json
+C:\Users\Ivan\source\repos\Encapsulation - Lab\03.ValidationofData\bin\Debug\netcoreapp3.1\03.ValidationofData.runtimeconfig.json
+C:\Users\Ivan\source\repos\Encapsulation - Lab\03.ValidationofData\bin\Debug\netcoreapp3.1\03.ValidationofData.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\Encapsulation - Lab\03.ValidationofData\bin\Debug\netcoreapp3.1\03.ValidationofData.dll
+C:\Users\Ivan\source\repos\Encapsulation - Lab\03.ValidationofData\bin\Debug\netcoreapp3.1\03.ValidationofData.pdb
+C:\Users\Ivan\source\repos\Encapsulation - Lab\03.ValidationofData\obj\Debug\netcoreapp3.1\03.ValidationofData.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Encapsulation - Lab\03.ValidationofData\obj\Debug\netcoreapp3.1\03.ValidationofData.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Encapsulation - Lab\03.ValidationofData\obj\Debug\netcoreapp3.1\03.ValidationofData.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Encapsulation - Lab\03.ValidationofData\obj\Debug\netcoreapp3.1\03.ValidationofData.dll
+C:\Users\Ivan\source\repos\Encapsulation - Lab\03.ValidationofData\obj\Debug\netcoreapp3.1\03.ValidationofData.pdb
+C:\Users\Ivan\source\repos\Encapsulation - Lab\03.ValidationofData\obj\Debug\netcoreapp3.1\03.ValidationofData.genruntimeconfig.cache
+C:\Users\Ivan\source\repos\Encapsulation - Lab\03.ValidationofData\obj\Debug\netcoreapp3.1\03.ValidationofData.csprojAssemblyReference.cache
