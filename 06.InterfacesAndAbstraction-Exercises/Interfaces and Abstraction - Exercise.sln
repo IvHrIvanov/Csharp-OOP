@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DefineIperson", "01.DefineIperson\01.DefineIperson.csproj", "{AE261181-F70B-4AD9-860E-CC6437A1F278}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.DefineIperson", "01.DefineIperson\01.DefineIperson.csproj", "{AE261181-F70B-4AD9-860E-CC6437A1F278}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Multiple Implementation", "02.Multiple Implementation\02.Multiple Implementation.csproj", "{EBFF2A65-A7F7-4ED1-BB08-0249269743EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Multiple Implementation", "02.Multiple Implementation\02.Multiple Implementation.csproj", "{EBFF2A65-A7F7-4ED1-BB08-0249269743EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Telephony", "03.Telephony\03.Telephony.csproj", "{AB737EA3-9907-4A0E-8088-9A7C7654366F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Telephony", "03.Telephony\03.Telephony.csproj", "{AB737EA3-9907-4A0E-8088-9A7C7654366F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.BorderControl", "04.BorderControl\04.BorderControl.csproj", "{E0DBAEB9-5C49-4216-A4EB-05E1259470C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.BorderControl", "04.BorderControl\04.BorderControl.csproj", "{E0DBAEB9-5C49-4216-A4EB-05E1259470C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.BirthdayCelebrations", "06.BirthdayCelebrations\05.BirthdayCelebrations.csproj", "{BB41F9CD-15B0-4A65-BC04-1130C879C5CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{E0DBAEB9-5C49-4216-A4EB-05E1259470C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0DBAEB9-5C49-4216-A4EB-05E1259470C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0DBAEB9-5C49-4216-A4EB-05E1259470C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB41F9CD-15B0-4A65-BC04-1130C879C5CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB41F9CD-15B0-4A65-BC04-1130C879C5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB41F9CD-15B0-4A65-BC04-1130C879C5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB41F9CD-15B0-4A65-BC04-1130C879C5CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

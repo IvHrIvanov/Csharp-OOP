@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.exe
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.deps.json
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.runtimeconfig.json
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.dll
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.BirthdayCelebrations\bin\Debug\netcoreapp3.1\05.BirthdayCelebrations.pdb
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.dll
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.pdb
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.genruntimeconfig.cache
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.BirthdayCelebrations\obj\Debug\netcoreapp3.1\05.BirthdayCelebrations.csprojAssemblyReference.cache
