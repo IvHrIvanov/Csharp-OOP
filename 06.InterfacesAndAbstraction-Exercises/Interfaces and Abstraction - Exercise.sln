@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DefineIperson", "01.Defi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Multiple Implementation", "02.Multiple Implementation\02.Multiple Implementation.csproj", "{EBFF2A65-A7F7-4ED1-BB08-0249269743EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Telephony", "03.Telephony\03.Telephony.csproj", "{AB737EA3-9907-4A0E-8088-9A7C7654366F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.BorderControl", "04.BorderControl\04.BorderControl.csproj", "{E0DBAEB9-5C49-4216-A4EB-05E1259470C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{EBFF2A65-A7F7-4ED1-BB08-0249269743EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBFF2A65-A7F7-4ED1-BB08-0249269743EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBFF2A65-A7F7-4ED1-BB08-0249269743EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB737EA3-9907-4A0E-8088-9A7C7654366F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB737EA3-9907-4A0E-8088-9A7C7654366F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB737EA3-9907-4A0E-8088-9A7C7654366F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB737EA3-9907-4A0E-8088-9A7C7654366F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0DBAEB9-5C49-4216-A4EB-05E1259470C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0DBAEB9-5C49-4216-A4EB-05E1259470C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0DBAEB9-5C49-4216-A4EB-05E1259470C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0DBAEB9-5C49-4216-A4EB-05E1259470C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
