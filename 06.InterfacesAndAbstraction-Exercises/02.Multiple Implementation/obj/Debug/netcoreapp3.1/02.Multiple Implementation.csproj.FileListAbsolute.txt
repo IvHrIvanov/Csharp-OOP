@@ -1,0 +1,12 @@
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\02.Multiple Implementation\bin\Debug\netcoreapp3.1\02.Multiple Implementation.exe
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\02.Multiple Implementation\bin\Debug\netcoreapp3.1\02.Multiple Implementation.deps.json
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\02.Multiple Implementation\bin\Debug\netcoreapp3.1\02.Multiple Implementation.runtimeconfig.json
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\02.Multiple Implementation\bin\Debug\netcoreapp3.1\02.Multiple Implementation.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\02.Multiple Implementation\bin\Debug\netcoreapp3.1\02.Multiple Implementation.dll
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\02.Multiple Implementation\bin\Debug\netcoreapp3.1\02.Multiple Implementation.pdb
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\02.Multiple Implementation\obj\Debug\netcoreapp3.1\02.Multiple Implementation.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\02.Multiple Implementation\obj\Debug\netcoreapp3.1\02.Multiple Implementation.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\02.Multiple Implementation\obj\Debug\netcoreapp3.1\02.Multiple Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\02.Multiple Implementation\obj\Debug\netcoreapp3.1\02.Multiple Implementation.dll
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\02.Multiple Implementation\obj\Debug\netcoreapp3.1\02.Multiple Implementation.pdb
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\02.Multiple Implementation\obj\Debug\netcoreapp3.1\02.Multiple Implementation.genruntimeconfig.cache

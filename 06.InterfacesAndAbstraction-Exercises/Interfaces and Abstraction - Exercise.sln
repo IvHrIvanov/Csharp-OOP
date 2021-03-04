@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DefineIperson", "01.DefineIperson\01.DefineIperson.csproj", "{AE261181-F70B-4AD9-860E-CC6437A1F278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Multiple Implementation", "02.Multiple Implementation\02.Multiple Implementation.csproj", "{EBFF2A65-A7F7-4ED1-BB08-0249269743EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE261181-F70B-4AD9-860E-CC6437A1F278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE261181-F70B-4AD9-860E-CC6437A1F278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE261181-F70B-4AD9-860E-CC6437A1F278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE261181-F70B-4AD9-860E-CC6437A1F278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBFF2A65-A7F7-4ED1-BB08-0249269743EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFF2A65-A7F7-4ED1-BB08-0249269743EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFF2A65-A7F7-4ED1-BB08-0249269743EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFF2A65-A7F7-4ED1-BB08-0249269743EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B37C8A05-ED58-4E95-8665-9432E8F2A992}
+	EndGlobalSection
+EndGlobal

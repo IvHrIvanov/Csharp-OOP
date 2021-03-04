@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\01.DefineIperson\bin\Debug\netcoreapp3.1\01.DefineIperson.exe
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\01.DefineIperson\bin\Debug\netcoreapp3.1\01.DefineIperson.deps.json
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\01.DefineIperson\bin\Debug\netcoreapp3.1\01.DefineIperson.runtimeconfig.json
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\01.DefineIperson\bin\Debug\netcoreapp3.1\01.DefineIperson.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\01.DefineIperson\bin\Debug\netcoreapp3.1\01.DefineIperson.dll
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\01.DefineIperson\bin\Debug\netcoreapp3.1\01.DefineIperson.pdb
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\01.DefineIperson\obj\Debug\netcoreapp3.1\01.DefineIperson.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\01.DefineIperson\obj\Debug\netcoreapp3.1\01.DefineIperson.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\01.DefineIperson\obj\Debug\netcoreapp3.1\01.DefineIperson.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\01.DefineIperson\obj\Debug\netcoreapp3.1\01.DefineIperson.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\01.DefineIperson\obj\Debug\netcoreapp3.1\01.DefineIperson.dll
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\01.DefineIperson\obj\Debug\netcoreapp3.1\01.DefineIperson.pdb
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\01.DefineIperson\obj\Debug\netcoreapp3.1\01.DefineIperson.genruntimeconfig.cache
