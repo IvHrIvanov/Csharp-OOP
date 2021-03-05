@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.exe
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.deps.json
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.runtimeconfig.json
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.dll
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.FoodShortage\bin\Debug\netcoreapp3.1\06.FoodShortage.pdb
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.dll
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.pdb
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\06.FoodShortage\obj\Debug\netcoreapp3.1\06.FoodShortage.genruntimeconfig.cache
