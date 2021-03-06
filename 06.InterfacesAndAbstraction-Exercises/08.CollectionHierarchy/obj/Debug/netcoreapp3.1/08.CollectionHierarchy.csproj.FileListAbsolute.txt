@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\08.CollectionHierarchy.exe
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\08.CollectionHierarchy.deps.json
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\08.CollectionHierarchy.runtimeconfig.json
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\08.CollectionHierarchy.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\08.CollectionHierarchy.dll
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\bin\Debug\netcoreapp3.1\08.CollectionHierarchy.pdb
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\08.CollectionHierarchy.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\08.CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\08.CollectionHierarchy.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\08.CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\08.CollectionHierarchy.dll
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\08.CollectionHierarchy.pdb
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Exercise\08.CollectionHierarchy\obj\Debug\netcoreapp3.1\08.CollectionHierarchy.genruntimeconfig.cache
