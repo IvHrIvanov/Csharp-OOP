@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Lab\01.Shape\bin\Debug\netcoreapp3.1\01.Shape.exe
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Lab\01.Shape\bin\Debug\netcoreapp3.1\01.Shape.deps.json
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Lab\01.Shape\bin\Debug\netcoreapp3.1\01.Shape.runtimeconfig.json
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Lab\01.Shape\bin\Debug\netcoreapp3.1\01.Shape.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Lab\01.Shape\bin\Debug\netcoreapp3.1\01.Shape.dll
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Lab\01.Shape\bin\Debug\netcoreapp3.1\01.Shape.pdb
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Lab\01.Shape\obj\Debug\netcoreapp3.1\01.Shape.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Lab\01.Shape\obj\Debug\netcoreapp3.1\01.Shape.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Lab\01.Shape\obj\Debug\netcoreapp3.1\01.Shape.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Lab\01.Shape\obj\Debug\netcoreapp3.1\01.Shape.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Lab\01.Shape\obj\Debug\netcoreapp3.1\01.Shape.dll
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Lab\01.Shape\obj\Debug\netcoreapp3.1\01.Shape.pdb
+C:\Users\Ivan\source\repos\Interfaces and Abstraction - Lab\01.Shape\obj\Debug\netcoreapp3.1\01.Shape.genruntimeconfig.cache
