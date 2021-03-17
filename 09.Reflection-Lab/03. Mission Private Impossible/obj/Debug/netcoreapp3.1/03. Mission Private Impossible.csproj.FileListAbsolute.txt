@@ -1,0 +1,12 @@
+C:\Users\Ivan\source\repos\Reflection-Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\03. Mission Private Impossible.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Reflection-Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\03. Mission Private Impossible.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Reflection-Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\03. Mission Private Impossible.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Reflection-Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\03. Mission Private Impossible.exe
+C:\Users\Ivan\source\repos\Reflection-Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\03. Mission Private Impossible.deps.json
+C:\Users\Ivan\source\repos\Reflection-Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\03. Mission Private Impossible.runtimeconfig.json
+C:\Users\Ivan\source\repos\Reflection-Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\03. Mission Private Impossible.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\Reflection-Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\03. Mission Private Impossible.dll
+C:\Users\Ivan\source\repos\Reflection-Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\03. Mission Private Impossible.pdb
+C:\Users\Ivan\source\repos\Reflection-Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\03. Mission Private Impossible.dll
+C:\Users\Ivan\source\repos\Reflection-Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\03. Mission Private Impossible.pdb
+C:\Users\Ivan\source\repos\Reflection-Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\03. Mission Private Impossible.genruntimeconfig.cache

@@ -1,12 +1,14 @@
 ﻿using System;
 
-namespace _03._Mission_Private_Impossible
+namespace Stealer
 {
-    class Program
+    class StartUp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Spy spy = new Spy();
+            string result = spy.RevealPrivateMethods("Stealer.Hacker");
+            Console.WriteLine(result);
         }
     }
 }
