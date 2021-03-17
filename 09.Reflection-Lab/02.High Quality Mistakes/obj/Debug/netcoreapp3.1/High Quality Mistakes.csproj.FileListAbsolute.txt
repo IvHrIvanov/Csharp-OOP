@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\Reflection-Lab\High Quality Mistakes\bin\Debug\netcoreapp3.1\High Quality Mistakes.exe
+C:\Users\Ivan\source\repos\Reflection-Lab\High Quality Mistakes\bin\Debug\netcoreapp3.1\High Quality Mistakes.deps.json
+C:\Users\Ivan\source\repos\Reflection-Lab\High Quality Mistakes\bin\Debug\netcoreapp3.1\High Quality Mistakes.runtimeconfig.json
+C:\Users\Ivan\source\repos\Reflection-Lab\High Quality Mistakes\bin\Debug\netcoreapp3.1\High Quality Mistakes.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\Reflection-Lab\High Quality Mistakes\bin\Debug\netcoreapp3.1\High Quality Mistakes.dll
+C:\Users\Ivan\source\repos\Reflection-Lab\High Quality Mistakes\bin\Debug\netcoreapp3.1\High Quality Mistakes.pdb
+C:\Users\Ivan\source\repos\Reflection-Lab\High Quality Mistakes\obj\Debug\netcoreapp3.1\High Quality Mistakes.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Reflection-Lab\High Quality Mistakes\obj\Debug\netcoreapp3.1\High Quality Mistakes.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Reflection-Lab\High Quality Mistakes\obj\Debug\netcoreapp3.1\High Quality Mistakes.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Reflection-Lab\High Quality Mistakes\obj\Debug\netcoreapp3.1\High Quality Mistakes.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Reflection-Lab\High Quality Mistakes\obj\Debug\netcoreapp3.1\High Quality Mistakes.dll
+C:\Users\Ivan\source\repos\Reflection-Lab\High Quality Mistakes\obj\Debug\netcoreapp3.1\High Quality Mistakes.pdb
+C:\Users\Ivan\source\repos\Reflection-Lab\High Quality Mistakes\obj\Debug\netcoreapp3.1\High Quality Mistakes.genruntimeconfig.cache
