@@ -5,17 +5,19 @@ using System.Text;
 using WarCroft.Constants;
 using WarCroft.Entities.Characters;
 using WarCroft.Entities.Characters.Contracts;
+using WarCroft.Entities.Inventory;
 using WarCroft.Entities.Items;
 
 namespace WarCroft.Core
 {
     public class WarController
     {
-        private static List<Character> characters = new List<Character>();
-        private static Stack<Item> potions = new Stack<Item>();
-        private static Dictionary<Character, List<Item>> heroes = new Dictionary<Character, List<Item>>();
+        private static Stack<Item> potions;
+        private static Dictionary<Character, Stack<Item>> heroes;
         public WarController()
         {
+            heroes = new Dictionary<Character, Stack<Item>>();
+            potions = new Stack<Item>();
         }
 
         public string JoinParty(string[] args)
@@ -27,22 +29,17 @@ namespace WarCroft.Core
             if (characterType == nameof(Warrior))
             {
                 Warrior war = new Warrior(name);
-                characters.Add(war);
 
+                heroes.Add(war, new Stack<Item>());
+                return $"{name} joined the party!";
             }
             else if (characterType == nameof(Priest))
             {
                 Priest priest = new Priest(name);
-                characters.Add(priest);
-
-
-            }
-            if (!heroes.Any(x => x.Key.Name == name))
-            {
-                Character currentCharacter = characters.FirstOrDefault(x => x.Name == name);
-                heroes.Add(currentCharacter, new List<Item>());
+                heroes.Add(priest, new Stack<Item>());
                 return $"{name} joined the party!";
             }
+
             return $"Invalid character type \"{characterType}\"!";
 
         }
@@ -55,7 +52,6 @@ namespace WarCroft.Core
                 HealthPotion healt = new HealthPotion();
 
                 potions.Push(healt);
-
                 return $"{itemName} added to pool.";
             }
             else if (nameof(FirePotion) == itemName)
@@ -72,8 +68,9 @@ namespace WarCroft.Core
 
         public string PickUpItem(string[] args)
         {
+            ;
             string characterName = args[0];
-            if (!characters.Any(x => x.Name == characterName))
+            if (!heroes.Keys.Any(x => x.Name == characterName))
             {
                 throw new ArgumentException($"Character {characterName} not found!");
             }
@@ -82,14 +79,18 @@ namespace WarCroft.Core
                 throw new InvalidOperationException("No items left in pool!");
             }
             Item lastItem = potions.Pop();
-            Character currentChar = characters.FirstOrDefault(x => x.Name == characterName);
+            Character currentChar = heroes.Keys.FirstOrDefault(x => x.Name == characterName);
             if (!heroes.ContainsKey(currentChar))
             {
-                heroes.Add(currentChar, new List<Item>());
+                heroes.Add(currentChar, new Stack<Item>());
             }
+            ;
+            heroes[currentChar] = new Stack<Item>();
 
-            currentChar.Bag.AddItem(lastItem);  
-            heroes[currentChar].Remove(lastItem);
+            currentChar.Bag.AddItem(lastItem);
+            heroes[currentChar].Push(lastItem);
+            ;
+
 
             return $"{characterName} picked up {lastItem.GetType().Name}!";
 
@@ -104,17 +105,24 @@ namespace WarCroft.Core
                 throw new ArgumentException($"Character {characterName} not found!");
             }
             Character current = heroes.Keys.FirstOrDefault(x => x.Name == characterName);
+            
+            ;
+            if(!heroes[current].Any(x=>x.GetType().Name==itemName))
+            {
+                throw new ArgumentException($"No item with name {itemName} in bag!");
 
+            }
+           
             Item potion = current.Bag.GetItem(itemName);
             current.UseItem(potion);
-            
+
             return $"{current.Name} used {itemName}.";
         }
 
         public string GetStats()
         {
             StringBuilder sb = new StringBuilder();
-            foreach (Character hero in heroes.Keys.OrderBy(x => x.IsAlive).OrderByDescending(x => x.Health))
+            foreach (Character hero in heroes.Keys.OrderByDescending(x => x.IsAlive).ThenByDescending(x => x.Health))
             {
                 string status = string.Empty;
                 if (hero.IsAlive)
@@ -154,7 +162,7 @@ namespace WarCroft.Core
             {
                 throw new InvalidOperationException("Must be alive to perform this action!");
             }
-            if(attacker==null)
+            if (attacker == null)
             {
                 throw new ArgumentException(String.Format(ExceptionMessages.AttackFail, attacker));
 
@@ -165,7 +173,7 @@ namespace WarCroft.Core
             }
             if (receiver.Name == attacker.Name)
             {
-                throw new InvalidCastException("Cannot attack self!");
+                throw new InvalidOperationException("Cannot attack self!");
             }
             StringBuilder sb = new StringBuilder();
             receiver.TakeDamage(attacker.AbilityPoints);
@@ -196,12 +204,12 @@ namespace WarCroft.Core
             {
                 throw new ArgumentException($"{healerName} cannot heal!");
             }
-            if(healer==null)
+            if (healer == null)
             {
                 throw new ArgumentException(String.Format(ExceptionMessages.HealerCannotHeal, healerName));
 
             }
-            if (receiver==null)
+            if (receiver == null)
             {
                 throw new ArgumentException(String.Format(ExceptionMessages.CharacterNotInParty, healingReceiverName));
 
