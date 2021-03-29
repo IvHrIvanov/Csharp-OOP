@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using WarCroft.Constants;
 using WarCroft.Entities.Characters;
 using WarCroft.Entities.Characters.Contracts;
 using WarCroft.Entities.Items;
@@ -86,11 +87,11 @@ namespace WarCroft.Core
             {
                 heroes.Add(currentChar, new List<Item>());
             }
-            
-            currentChar.Bag.AddItem(lastItem);
-            heroes[currentChar].Add(lastItem);
 
-            return $"{characterName} picked up {lastItem.Name}!";
+            currentChar.Bag.AddItem(lastItem);  
+            heroes[currentChar].Remove(lastItem);
+
+            return $"{characterName} picked up {lastItem.GetType().Name}!";
 
         }
 
@@ -106,7 +107,7 @@ namespace WarCroft.Core
 
             Item potion = current.Bag.GetItem(itemName);
             current.UseItem(potion);
-            heroes[current].Remove(potion);
+            
             return $"{current.Name} used {itemName}.";
         }
 
@@ -149,9 +150,18 @@ namespace WarCroft.Core
             {
                 throw new ArgumentException($"{attacker.Name} cannot attack!");
             }
-            if(!receiver.IsAlive)
+            if (!receiver.IsAlive)
             {
                 throw new InvalidOperationException("Must be alive to perform this action!");
+            }
+            if(attacker==null)
+            {
+                throw new ArgumentException(String.Format(ExceptionMessages.AttackFail, attacker));
+
+            }
+            if (!receiver.IsAlive)
+            {
+                throw new InvalidOperationException(ExceptionMessages.AffectedCharacterDead);
             }
             if (receiver.Name == attacker.Name)
             {
@@ -180,13 +190,23 @@ namespace WarCroft.Core
             {
                 throw new ArgumentException($"Character {healingReceiverName} not found!");
             }
-            Character healer = heroes.Keys.FirstOrDefault(x => x.Name == healerName);
+            Priest healer = (Priest)heroes.Keys.FirstOrDefault(x => x.Name == healerName);
             Character receiver = heroes.Keys.FirstOrDefault(x => x.Name == healingReceiverName);
             if (!healer.IsAlive || !receiver.IsAlive)
             {
                 throw new ArgumentException($"{healerName} cannot heal!");
             }
-            receiver.Health += healer.AbilityPoints;
+            if(healer==null)
+            {
+                throw new ArgumentException(String.Format(ExceptionMessages.HealerCannotHeal, healerName));
+
+            }
+            if (receiver==null)
+            {
+                throw new ArgumentException(String.Format(ExceptionMessages.CharacterNotInParty, healingReceiverName));
+
+            }
+            healer.Heal(receiver);
             return $"{healer.Name} heals {receiver.Name} for {healer.AbilityPoints}! {receiver.Name} has {receiver.Health} health now!";
         }
     }

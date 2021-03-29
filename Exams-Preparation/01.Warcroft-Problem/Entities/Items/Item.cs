@@ -9,14 +9,14 @@ namespace WarCroft.Entities.Items
 	public abstract class Item
 	{
 	
-		protected Item(int weight,string name)
+		protected Item(int weight)
 		{
 			this.Weight = weight;
-			Name = name;
+		
 		}
       
         public int Weight { get; }
-		public string Name { get; }
+		
       
         public virtual void AffectCharacter(Character character)
 		{

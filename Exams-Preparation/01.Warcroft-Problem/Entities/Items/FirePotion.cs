@@ -9,20 +9,23 @@ namespace WarCroft.Entities.Items
     {
         private const int weight = 5;
         private const int decrese = 20;
-        private const string firePotion = "FirePotion";
+
         public FirePotion()
-            : base(weight, firePotion)
+            : base(weight)
         {
-            
+
         }
-  
+
         public override void AffectCharacter(Character character)
         {
             base.AffectCharacter(character);
-            
-            character.Health -= decrese;
-            if(character.Health<=0)
+            if (character.Health > decrese)
             {
+                character.Health -= decrese;
+            }
+            else
+            {
+                character.Health = 0;
                 character.IsAlive = false;
             }
         }

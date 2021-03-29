@@ -8,18 +8,20 @@ namespace WarCroft.Entities.Inventory
 {
     public abstract class Bag : IBag
     {
-        private static List<Item> items = new List<Item>();
+        private const int DeefaultCapacity = 100;
+        private static List<Item> items;
 
         public Bag(int capacity)
         {
             Capacity = capacity;
+            items = new List<Item>();
         }
 
         public int Capacity { get; set; } = 100;
 
-        public int Load { get; } = 0;
+        public int Load=>items.Sum(x=>x.Weight);
 
-        public IReadOnlyCollection<Item> Items => items;
+        public IReadOnlyCollection<Item> Items => items.ToList().AsReadOnly();
 
         public void AddItem(Item item)
         {
@@ -33,16 +35,17 @@ namespace WarCroft.Entities.Inventory
 
         public Item GetItem(string name)
         {
-            Item find = items.FirstOrDefault(x => x.Name == name);
-            if(items.Count==0)
+            
+            if(!items.Any())
             {
                 throw new InvalidOperationException("Bag is empty!");
             }
-            if (!items.Contains(find))
+            if (!items.Any(x=>x.GetType().Name==name))
             {
                 throw new ArgumentException($"No item with name {name} in bag!");
             }
-            items.Remove(find);
+            Item find = items.FirstOrDefault(x => x.GetType().Name == name);
+          
             return find;
         }
     }

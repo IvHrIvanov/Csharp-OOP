@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using WarCroft.Constants;
 using WarCroft.Entities.Characters.Contracts;
 using WarCroft.Entities.Inventory;
 
@@ -8,26 +9,24 @@ namespace WarCroft.Entities.Characters
 {
     public class Priest : Character, IHealer
     {
-        private const double health = 50;
-        private const double armor = 25;
-        private const double ability = 40;
+        private const double DefaulHealth = 50;
+        private const double DefaultArmor = 25;
+        private const double DefaultAbility = 40;
         private static Backpack backpack = new Backpack();
         public Priest(string name)
-            : base(name, health, armor, ability, backpack)
+            : base(name, DefaulHealth, DefaultArmor, DefaultAbility, backpack)
         {
-            Name = name;
-            Health = health;
-            Armor = armor;
-            AbilityPoints = ability;
-            Bag = backpack;
+
         }
 
         public void Heal(Character character)
         {
-            if (character.IsAlive && IsAlive)
+            if (!this.IsAlive || !character.IsAlive)
             {
-                character.Health += AbilityPoints;
+                throw new InvalidOperationException(ExceptionMessages.AffectedCharacterDead);
             }
+            character.Health += this.AbilityPoints;
+            
         }
     }
 }

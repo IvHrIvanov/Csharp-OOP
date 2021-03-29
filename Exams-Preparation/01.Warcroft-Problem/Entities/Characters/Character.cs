@@ -85,11 +85,11 @@ namespace WarCroft.Entities.Characters.Contracts
                 }
             }
         }
-        public double AbilityPoints { get; protected set; }
+        public double AbilityPoints { get; private set; }
 
-        public Bag Bag { get; protected set; }
-        public double BaseArmor { get; protected set; }
-        public double BaseHealth { get; protected set; }
+        public Bag Bag { get; private set; }
+        public double BaseArmor { get; private set; }
+        public double BaseHealth { get; private set; }
         public bool IsAlive { get; set; } = true;
 
         protected void EnsureAlive()
@@ -102,51 +102,31 @@ namespace WarCroft.Entities.Characters.Contracts
 
         public void TakeDamage(double hitPoints)
         {
-            if (IsAlive == true)
+            EnsureAlive();
+            double decrserHitPoints = armor;
+            armor -= hitPoints;
+            if (armor <= 0)
             {
-                double decrserHitPoints = armor;
-                armor -= hitPoints;
-                if (armor <= 0)
+                armor = 0;
+            }
+            hitPoints -= decrserHitPoints;
+            if (hitPoints > 0)
+            {
+                health -= hitPoints;
+                if (health <= 0)
                 {
-                    armor = 0;
-                }
-                hitPoints -= decrserHitPoints;
-                if (hitPoints > 0)
-                {
-                    health -= hitPoints;
-                    if (health <= 0)
-                    {
-                        health = 0;
-                        IsAlive = false;
-                    }
+                    health = 0;
+                    IsAlive = false;
                 }
             }
+
 
         }
         public void UseItem(Item item)
         {
-            if (IsAlive == true)
-            {
-                string name = item.Name;
-                if (name == "HealthPotion")
-                {
-                    Health += 20;
-                    if (Health > BaseHealth)
-                    {
-                        Health = BaseHealth;
-                    }
-
-                }
-                else if (name == "FirePotion")
-                {
-                    Health -= 20;
-                    if (Health <= 0)
-                    {
-                        Health = 0;
-                        IsAlive = false;
-                    }
-                }
-            }
+            EnsureAlive();
+            item.AffectCharacter(this);
+           
         }
     }
 }
