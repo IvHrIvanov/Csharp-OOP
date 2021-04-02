@@ -22,12 +22,12 @@ namespace WarCroft.Entities.Characters
 
         public void Attack(Character character)
         {
-
+            EnsureAlive();
             if (character.Name == Name)
             {
                 throw new InvalidOperationException("Cannot attack self!");
             }
-            if (!character.IsAlive || !this.IsAlive)
+            if (!character.IsAlive)
             {
                 throw new InvalidOperationException(ExceptionMessages.AffectedCharacterDead);
             }

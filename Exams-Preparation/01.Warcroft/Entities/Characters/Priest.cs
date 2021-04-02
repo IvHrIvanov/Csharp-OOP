@@ -21,7 +21,8 @@ namespace WarCroft.Entities.Characters
 
         public void Heal(Character character)
         {
-            if (!this.IsAlive || !character.IsAlive)
+            EnsureAlive();
+            if (!character.IsAlive)
             {
                 throw new InvalidOperationException(ExceptionMessages.AffectedCharacterDead);
             }
