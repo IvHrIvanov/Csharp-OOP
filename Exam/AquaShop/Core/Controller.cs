@@ -46,6 +46,7 @@ namespace AquaShop.Core
             if (decorationType == "Ornament")
             {
                 decoration.Add(new Ornament());
+                
             }
             else if (decorationType == "Plant")
             {
@@ -122,7 +123,7 @@ namespace AquaShop.Core
 
             var findAquarium = aquarium.FirstOrDefault(x => x.Name == aquariumName);
             findAquarium.AddDecoration(findDecoration);
-           
+            decoration.Remove(findDecoration);
             return $"Successfully added {decorationType} to {aquariumName}.";
         }
 

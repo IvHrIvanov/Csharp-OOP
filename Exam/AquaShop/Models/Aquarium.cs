@@ -13,17 +13,16 @@ namespace AquaShop.Models.Aquariums
     {
         private string name;
         private int capacity;
-        private int comfort;
+
         private readonly ICollection<IFish> fish;
         private readonly ICollection<IDecoration> decorations;
-        public Aquarium(string name,int capacity)
+        public Aquarium(string name, int capacity)
         {
             Name = name;
             Capacity = capacity;
             fish = new List<IFish>();
-          
             decorations = new List<IDecoration>();
-            Comfort = comfort;
+
         }
         public string Name
         {
@@ -54,17 +53,8 @@ namespace AquaShop.Models.Aquariums
         }
 
 
-        public int Comfort
-        {
-            get
-            {
-                return comfort;
-            }
-            private set
-            {
-                comfort = value ;
-            }
-        }
+        public int Comfort => decorations.Sum(x => x.Comfort);
+
 
         public ICollection<IDecoration> Decorations => decorations.ToList().AsReadOnly();
 
@@ -96,23 +86,20 @@ namespace AquaShop.Models.Aquariums
 
         public string GetInfo()
         {
-            Comfort = decorations.Sum(x => x.Comfort);
+
             StringBuilder sb = new StringBuilder();
             sb.AppendLine($"{name} ({GetType().Name}):");
             if (fish.Count <= 0)
             {
                 sb.AppendLine("Fish: none");
-             
+
             }
             else
             {
-             
-                foreach (var currentFish in fish)
-                {
-                    sb.AppendLine($"Fish: {string.Join(",", currentFish.Name)}");
-                }
+                sb.AppendLine($"Fish: {string.Join(", ", fish.Select(x => x.Name))}");
+
             }
-            
+
             sb.AppendLine($"Decorations: {decorations.Count}");
             sb.AppendLine($"Comfort: {Comfort}");
             return sb.ToString().TrimEnd();
